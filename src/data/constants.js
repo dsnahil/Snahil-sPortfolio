@@ -247,7 +247,7 @@ export const Bio = {
       date: "2025",
       description:
         "Career Canvas – where crafting your dream career becomes a creative experience. Imagine opening the app and instantly having powerful AI tools at your fingertips to transform your job search journey. With just a few clicks, you can generate a professional resume tailored to your target position, create a compelling cover letter that highlights your unique skills, and prepare for interviews through realistic practice sessions. As you use Career Canvas, you'll experience a seamless workflow where your professional history transforms into employer-ready documents through our intuitive drag-and-drop interface. The keyword optimization feature automatically identifies and incorporates industry-specific terms that help your resume pass ATS screening systems. When interview day approaches, practice with our AI-powered interview simulator that provides real-time feedback on your responses. Review your performance analytics to track improvement and receive suggestions to strengthen your application materials. With multi-format export options, you'll always have your polished documents ready to share in the format employers prefer. Career Canvas doesn't just help you apply for jobs – it empowers you to strategically craft your professional narrative for career success..",
-      image: "https://drive.google.com/file/d/1jYmvnf-xy7e8Cg_LY3zDU-5OGZpzkvUS/view?usp=sharing",
+      image: "https://github.com/dsnahil/CareerCanvas/blob/main/images/CC.png?raw=true",
       tags: ["Node.js", "Yarn package manager", "LM Studio"],
       category: "mobile app",
       github: "https://github.com/dsnahil/CareerCanvas",
