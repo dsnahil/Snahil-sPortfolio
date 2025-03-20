@@ -247,7 +247,7 @@ export const Bio = {
       date: "2025",
       description:
         "Career Canvas – where crafting your dream career becomes a creative experience. Imagine opening the app and instantly having powerful AI tools at your fingertips to transform your job search journey. With just a few clicks, you can generate a professional resume tailored to your target position, create a compelling cover letter that highlights your unique skills, and prepare for interviews through realistic practice sessions. As you use Career Canvas, you'll experience a seamless workflow where your professional history transforms into employer-ready documents through our intuitive drag-and-drop interface. The keyword optimization feature automatically identifies and incorporates industry-specific terms that help your resume pass ATS screening systems. When interview day approaches, practice with our AI-powered interview simulator that provides real-time feedback on your responses. Review your performance analytics to track improvement and receive suggestions to strengthen your application materials. With multi-format export options, you'll always have your polished documents ready to share in the format employers prefer. Career Canvas doesn't just help you apply for jobs – it empowers you to strategically craft your professional narrative for career success..",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31t772QmTKZz7ELT5eFgpWjpzr8Iv78vang&s",
+      image: "https://drive.google.com/file/d/1jYmvnf-xy7e8Cg_LY3zDU-5OGZpzkvUS/view?usp=sharing",
       tags: ["Node.js", "Yarn package manager", "LM Studio"],
       category: "mobile app",
       github: "https://github.com/dsnahil/CareerCanvas",
@@ -259,7 +259,7 @@ export const Bio = {
       date: "2023",
       description:
         "Developed a real-time industry management system that tracks vehicles, weighbridges, users, drivers, and transactions. Implemented dynamic reporting with export options in CSV, PDF, and Excel. Designed interactive dashboards with graphs and pie charts to visualize transactions efficiently. Implemented real-time data synchronization for real-time business insights, improving operational efficiency.",
-      image: "https://private-user-images.githubusercontent.com/92240128/424769607-bc269c7f-5467-44ba-b733-3f70d6882361.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0MzE0NzksIm5iZiI6MTc0MjQzMTE3OSwicGF0aCI6Ii85MjI0MDEyOC80MjQ3Njk2MDctYmMyNjljN2YtNTQ2Ny00NGJhLWI3MzMtM2Y3MGQ2ODgyMzYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIwVDAwMzkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3ZGE5YzhjZGNmOGJlYjNmNzNjMWI2NWZmYzkzZjc3YzkwZjllMGMzZmVjYWYwZTRmYTAyYzE5ZmM3MzIzMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3kXWBVWtWrlu1cnH-Mp9QGdsXdR2_oiXcRJjdfN_Lgk",
+      image: "https://drive.google.com/file/d/1XtqWtwVdOMHpvGYl7IZXy6Mpwp-X15Sm/view?usp=sharing",
       tags: ["C#", "ASP.NET Core", "Web API", "SQL", "Dashboard", "Reports"],
       category: "web app",
       github: "https://github.com/dsnahil/ScaleElite",
@@ -271,7 +271,7 @@ export const Bio = {
       date: "2022",
       description:
         "Built a Windows desktop application for hotel owners and customers to streamline order placement and management. Developed an intuitive menu selection system, reducing order processing time by 40%. Integrated order cancellation and reordering functionality, improving user experience and operational flexibility. Implemented automated order calculations, minimizing manual errors and enhancing customer satisfaction.",
-      image: "https://private-user-images.githubusercontent.com/92240128/424771911-ebe16643-0acf-4e44-b5c5-faa27494223d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0NjM4ODUsIm5iZiI6MTc0MjQ2MzU4NSwicGF0aCI6Ii85MjI0MDEyOC80MjQ3NzE5MTEtZWJlMTY2NDMtMGFjZi00ZTQ0LWI1YzUtZmFhMjc0OTQyMjNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIwVDA5Mzk0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxZWI4MjE4YmU1MmEyYjVhMDc1NDNkNjFhMTY0MDMzMjYxNzA5NTBkODc5NDMzOGQzZDA4ZmEyOGNlYmZiM2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EdfrlJ5D9g7iKo2NCGfuIrjZ4Ei9zLRfdb1p2-eNWK0",
+      image: "https://drive.google.com/file/d/1NGTFLOiRaS_qhDf-GatF88IRF69R2ZWS/view?usp=sharing",
       tags: ["C#", ".NET Framework", "Windows Forms", "SQL"],
       category: "desktop app",
       github: "https://github.com/dsnahil/OrderEase",
@@ -283,7 +283,7 @@ export const Bio = {
       date: "2022",
       description:
         "Designed and developed a secure university portal access app for students. Engineered a user-friendly authentication system, ensuring a smooth login/registration experience. Optimized UI/UX for enhanced navigation and accessibility to academic resources. Implemented secure API integrations for seamless interaction with university services.",
-      image: "https://private-user-images.githubusercontent.com/92240128/424773641-60e90dfd-dd11-43a4-8c7f-bf149b19c274.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0MzIyMzEsIm5iZiI6MTc0MjQzMTkzMSwicGF0aCI6Ii85MjI0MDEyOC80MjQ3NzM2NDEtNjBlOTBkZmQtZGQxMS00M2E0LThjN2YtYmYxNDliMTljMjc0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIwVDAwNTIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxNzIxOWMwYTRlNDVjYjQ3NmJjOTkzOTM1ZWJjYjlmOWFjMzE3NmQwY2U1NDUyYWNkMzdiYzZiZjlhM2FlZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oK5wxVy9vpiyIniWhAAdjeAghWAxL0bvsmx0kCVIrxk",
+      image: "https://drive.google.com/file/d/12csKAGDX7rLZoma4trUPfhJ7QEg-DRBx/view?usp=sharing",
       tags: ["Kotlin", "Android Studio", "Firebase", "API Integration"],
       category: "mobile app",
       github: "https://github.com/dsnahil/StudentConnect",
