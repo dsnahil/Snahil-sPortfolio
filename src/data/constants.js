@@ -247,7 +247,7 @@ export const Bio = {
       date: "2025",
       description:
         "Career Canvas – where crafting your dream career becomes a creative experience. Imagine opening the app and instantly having powerful AI tools at your fingertips to transform your job search journey. With just a few clicks, you can generate a professional resume tailored to your target position, create a compelling cover letter that highlights your unique skills, and prepare for interviews through realistic practice sessions. As you use Career Canvas, you'll experience a seamless workflow where your professional history transforms into employer-ready documents through our intuitive drag-and-drop interface. The keyword optimization feature automatically identifies and incorporates industry-specific terms that help your resume pass ATS screening systems. When interview day approaches, practice with our AI-powered interview simulator that provides real-time feedback on your responses. Review your performance analytics to track improvement and receive suggestions to strengthen your application materials. With multi-format export options, you'll always have your polished documents ready to share in the format employers prefer. Career Canvas doesn't just help you apply for jobs – it empowers you to strategically craft your professional narrative for career success..",
-      image: "https://imgur.com/a/gGJR5lE",
+      image: "https://i.postimg.cc/rmRJBNhw/CC.png",
       tags: ["Node.js", "Yarn package manager", "LM Studio"],
       category: "mobile app",
       github: "https://github.com/dsnahil/CareerCanvas",
@@ -255,7 +255,7 @@ export const Bio = {
     },
     {
       id: 1,
-      title: "ScaleElite (Industry Management System)",
+      title: "ScaleElite (Weighbridge Management System)",
       date: "2023",
       description:
         "Developed a real-time industry management system that tracks vehicles, weighbridges, users, drivers, and transactions. Implemented dynamic reporting with export options in CSV, PDF, and Excel. Designed interactive dashboards with graphs and pie charts to visualize transactions efficiently. Implemented real-time data synchronization for real-time business insights, improving operational efficiency.",
@@ -278,6 +278,54 @@ export const Bio = {
       webapp: "",
     },
     {
+      id: 3,
+      title: "StudentConnect (University Portal App)",
+      date: "2022",
+      description:
+        "Designed and developed a secure university portal access app for students. Engineered a user-friendly authentication system, ensuring a smooth login/registration experience. Optimized UI/UX for enhanced navigation and accessibility to academic resources. Implemented secure API integrations for seamless interaction with university services.",
+      image: "https://drive.google.com/file/d/12csKAGDX7rLZoma4trUPfhJ7QEg-DRBx/view?usp=sharing",
+      tags: ["Kotlin", "Android Studio", "Firebase", "API Integration"],
+      category: "mobile app",
+      github: "https://github.com/dsnahil/StudentConnect",
+      webapp: "",
+    },
+      {
+      id: 3,
+      title: "Tripbud (Travel Management System)",
+      date: "2023",
+      description:
+        "TripBud is a web-based travel management system which helps users plan, organize, and manage their trips effortlessly. With features like itinerary creation, hotel and transport booking, expense tracking, and real-time travel updates, TripBud ensures a smooth and hassle-free travel experience. Whether for solo travelers or groups, TripBud makes trip planning easy and efficient.",
+      image: "https://github.com/dsnahil/Tripbud/assets/92240128/a202b3ab-c28b-480e-b5dc-b0e5379d936d",
+      tags: ["HTML", "CSS", "Javascript", "PHP"],
+      category: "web app",
+      github: "https://github.com/dsnahil/Tripbud",
+      webapp: "",
+    },
+      {
+      id: 3,
+      title: "CatMosaicGenerator (University Portal App)",
+      date: "2022",
+      description:
+        "Gradio application that generates dynamic mosaic layouts of cat images. This project demonstrates modern practices and responsive design principles while delivering a fun, interactive user experience.",
+      image: "https://drive.google.com/file/d/12csKAGDX7rLZoma4trUPfhJ7QEg-DRBx/view?usp=sharing",
+      tags: ["Kotlin", "Android Studio", "Firebase", "API Integration"],
+      category: "mobile app",
+      github: "https://github.com/dsnahil/StudentConnect",
+      webapp: "",
+    },
+      {
+      id: 3,
+      title: "StudentConnect (University Portal App)",
+      date: "2022",
+      description:
+        "Designed and developed a secure university portal access app for students. Engineered a user-friendly authentication system, ensuring a smooth login/registration experience. Optimized UI/UX for enhanced navigation and accessibility to academic resources. Implemented secure API integrations for seamless interaction with university services.",
+      image: "https://drive.google.com/file/d/12csKAGDX7rLZoma4trUPfhJ7QEg-DRBx/view?usp=sharing",
+      tags: ["Kotlin", "Android Studio", "Firebase", "API Integration"],
+      category: "mobile app",
+      github: "https://github.com/dsnahil/StudentConnect",
+      webapp: "",
+    },
+      {
       id: 3,
       title: "StudentConnect (University Portal App)",
       date: "2022",
